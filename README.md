@@ -36,7 +36,7 @@ This project is a chess-like game built with a server-client architecture using 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/VedPrakash483/VedPrakash_21BCE1021.git
+   git clone https://github.com/ankushkumar2002/HitwicketGame.git
 
 2. **Install Dependencies:**
    ```bash
