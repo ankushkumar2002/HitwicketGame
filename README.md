@@ -8,20 +8,6 @@ This project is a chess-like game built with a server-client architecture using 
 
 ![image](https://github.com/user-attachments/assets/ebeaf008-4088-4983-9a1a-4bb4d5f52564)
 
-```markdown
-## Project Structure
-
-/VedPrakash_21BCE1021
-├── /client
-│   ├── index.html
-│   ├── styles.css
-│   └── chess.js
-├── /server
-│   └── server.js
-├── package.json
-└── package-lock.json
-```
-
 ### Client Directory
 
 - **`index.html`**: Contains the HTML layout for the game board.
